@@ -1,0 +1,39 @@
+.con4{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  border-bottom: 1px solid #E5E5E5;
+}
+.heading{
+    width: 766px;
+height: 42px;
+top: 292px;
+left: 388px;
+gap: 0px;
+opacity: 0px;
+font-family: Simplon Norm;
+font-size: 30px;
+font-weight: 400;
+line-height: 72px;
+letter-spacing: 1px;
+text-align: center;
+color: #252020;
+
+}
+.para{
+    width: 721px;
+height: 80px;
+top: 380px;
+left: 360px;
+gap: 0px;
+opacity: 0px;
+font-family: Simplon Norm;
+font-size: 18px;
+font-weight: 400;
+line-height: 40px;
+text-align: center;
+color: #252020;
+
+}
